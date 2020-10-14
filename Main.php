@@ -5,7 +5,7 @@ require_once 'vendor/autoload.php';
 use App\Grade;
 use App\School;
 use App\Student;
-use App\Test\Teacher;
+use App\Test\Teacher ;
 
 
 $teacher = new Teacher();
